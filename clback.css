@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#container {
+	width: 768px;
+	height: 1024px;
+	margin-right: auto; 
+	margin-left: auto;
+	/*margin-top: 20px;
+	margin-bottom: 20px;*/
+	background: #CCF; /*gray*/
+	/*overflow: visible;*/
+	}
+#cL {
+	width: 384px;
+	height: 904px;
+	float: left; 
+	background: #55F; /*blue*/
+	}
+#cR {
+	width: 384px;
+	height: 904px;
+	float: left;
+	background: #F00; /*red*/
+	}
+#textbox1 {
+	width: 768px;
+	height: 220px;
+	float:left;
+	/*margin-bottom: 20px;*/
+	background: #CCC; /*gray*/
+}	
+#homage {
+	width: 462px;
+	height: 600px;
+	float: left; /*see below for description of float*/
+	background: #55F; /*blue*/
+	}
+#infobox {
+	width: 306px;
+	height: 904x;
+	float: left;
+	background: #F00; /*red*/
+	}
+
+#footer {
+	width: 768px;
+	height: 120px;
+	float:left;
+	/*margin-bottom: 20px;*/
+	background: #CCC; /*gray*/
+}
+#arrowr {
+	width: 100px;
+	height: 100px;
+	float:right;
+	/*margin-bottom: 20px;*/
+	background: #CC0; /*gray*/	
+}
+
+#arrowl {
+	width: 100px;
+	height: 100px;
+	float:left;
+	/*margin-bottom: 20px;*/
+	background: #0CC; /*gray*/
+}
+#outer {
+	width: 400px;
+	height: 400px;
+	margin-top: 166px;
+	margin-right: 100px;
+	margin-left: 100px;
+	/*float: left;*/
+	background: #FF0; /*yellow*/
+	}
+#inner {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-top: 148px;
+	margin-right: 100px;
+	margin-left: 100px;
+	background: #A70; /*brown*/
+	}
+
+
+#imgholder {
+	width: 100px;
+	height: 100px;
+	float: right;
+	padding-top: 0px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 120px;
+	margin-bottom: 20px;
+	background: #B03; /*cyan*/
+	}
